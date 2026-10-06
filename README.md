@@ -1,5 +1,4 @@
 # HackerRank-3rdSem-Portfolio
-# HackerRank-3rdSem-Portfolio
 
 ## Student Information
 
