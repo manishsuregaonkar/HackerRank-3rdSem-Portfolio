@@ -62,7 +62,7 @@ HackerRank-3rdSem-Portfolio/
 
 ## HackerRank Profile
 
-HackerRank: [My HackerRank Profile](https://www.hackerrank.com/)
+ HackerRank: [My HackerRank Profile](https://www.hackerrank.com/profile/manishsuregaonk1)
 
 ## GitHub Repository
 
